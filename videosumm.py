@@ -1,4 +1,5 @@
-## Pytube is not working using ytdlp instead
+## Used Pytube here, not working giving 404 error. Fixed by using yt-dlp in the ytdlp2 file
+
 
 import validators
 import streamlit as st
